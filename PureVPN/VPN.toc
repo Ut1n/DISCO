@@ -1,0 +1,26 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Windows}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Загрузите приложение PureVPN}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Установите приложение PureVPN}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Войдите в приложение PureVPN}{6}{}%
+\contentsline {subsection}{\numberline {1.4}Выход из приложения PureVPN для Windows}{11}{}%
+\contentsline {subsection}{\numberline {1.5}Проверьте сведения о подписке в приложении PureVPN}{13}{}%
+\contentsline {section}{\numberline {2}Linux}{14}{}%
+\contentsline {subsection}{\numberline {2.1}Подключите Wireguard в Linux}{14}{}%
+\contentsline {subsection}{\numberline {2.2}Загрузите файл конфигурации Wireguard}{15}{}%
+\contentsline {section}{\numberline {3}Mac}{18}{}%
+\contentsline {subsection}{\numberline {3.1}Загрузите приложение PureVPN}{18}{}%
+\contentsline {subsection}{\numberline {3.2}Установите приложение PureVPN}{19}{}%
+\contentsline {subsection}{\numberline {3.3}Войдите в приложение PureVPN}{21}{}%
+\contentsline {subsection}{\numberline {3.4}Выход из приложения PureVPN}{25}{}%
+\contentsline {subsection}{\numberline {3.5}Проверьте сведения о подписке в приложении PureVPN}{27}{}%
+\contentsline {section}{\numberline {4}Android}{29}{}%
+\contentsline {subsection}{\numberline {4.1}Загрузите и установите приложение PureVPN}{29}{}%
+\contentsline {subsection}{\numberline {4.2}Войдите в приложение PureVPN}{32}{}%
+\contentsline {subsection}{\numberline {4.3}Выход из приложения PureVPN}{38}{}%
+\contentsline {subsection}{\numberline {4.4}Проверьте информацию о подписке в приложении Pure VPN}{43}{}%
+\contentsline {section}{\numberline {5}IOS}{47}{}%
+\contentsline {subsection}{\numberline {5.1}Загрузите и установите приложение PureVPN}{47}{}%
+\contentsline {subsection}{\numberline {5.2}Войдите в приложение PureVPN}{49}{}%
+\contentsline {subsection}{\numberline {5.3}Выход из приложения PureVPN для iOS}{52}{}%
+\contentsline {subsection}{\numberline {5.4}Проверьте информацию о подписке в приложении Pure VPN}{56}{}%
